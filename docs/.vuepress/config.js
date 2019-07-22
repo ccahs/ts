@@ -12,7 +12,7 @@ module.exports = {
       { text: "Issues/Bugs", link: "https://github.com/ccahs/ts/issues/new" }
     ],
     sidebar: {
-      "/guide/": ["", "frontend", "backend"],
+      "/guide/": ["", "style"],
       "/scripts/": ["", "print-wristband-adt", "print-otx"]
     }
   }
