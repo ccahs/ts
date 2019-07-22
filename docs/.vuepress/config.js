@@ -9,7 +9,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
       { text: "Scripts", link: "/scripts/" },
-      { text: "Issues/Bugs", link: "/" }
+      { text: "Issues/Bugs", link: "https://github.com/ccahs/ts/issues/new" }
     ],
     sidebar: {
       "/guide/": ["", "frontend", "backend"],
