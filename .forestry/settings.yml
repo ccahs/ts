@@ -10,10 +10,10 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: guide/*.md
+  path: docs/guide/*.md
   label: Guide
 - type: document
-  path: scripts/*.md
+  path: docs/scripts/*.md
   label: Scripts
 upload_dir: uploads
 public_path: "/uploads"
