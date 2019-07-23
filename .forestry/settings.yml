@@ -13,7 +13,7 @@ sections:
   path: guide/*.md
   label: Guide
 - type: document
-  path: docs/scripts
+  path: scripts/*.md
   label: Scripts
 upload_dir: uploads
 public_path: "/uploads"
