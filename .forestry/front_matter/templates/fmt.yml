@@ -1,0 +1,9 @@
+---
+label: fmt
+hide_body: false
+fields:
+- name: script_title
+  type: text
+  config:
+    required: false
+  label: Script Title

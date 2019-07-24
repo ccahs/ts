@@ -1,0 +1,18 @@
+---
+label: Style Guide
+hide_body: false
+fields:
+- name: heading_title
+  type: text
+  config:
+    required: false
+  label: Heading Title
+- name: guide_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Guide Description
