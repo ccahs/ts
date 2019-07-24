@@ -9,11 +9,13 @@ sections:
   label: Guide
   create: all
   match: "**/*"
+  exclude: README.md
 - type: directory
   path: docs/scripts
   label: Scripts
   create: all
   match: "**/*"
+  exclude: README.md
 - type: directory
   path: docs
   label: Pages
