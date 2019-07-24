@@ -18,5 +18,7 @@ This is a style guide for the test scripts
 ---
 
 ::: tip
-dsjkds
-:::
+
+- outcome item
+- outcome item
+  :::
