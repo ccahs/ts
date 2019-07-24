@@ -21,5 +21,4 @@ This is a style guide for the test scripts
 ::: tip 
 
 Great 
-
 :::
