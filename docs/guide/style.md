@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Style Guide
 
 This is a style guide for the test scripts
@@ -23,17 +22,14 @@ This is a style guide for the test scripts
 - outcome item
 - outcome item
   :::
-=======
-+++
 
-+++
 # Style Guide
 
 This is a style guide for the test scripts
 
 # Headings
 
-***
+---
 
     # This is heading 1
     ## This is heading 2
@@ -42,11 +38,10 @@ This is a style guide for the test scripts
 
 # Outcome
 
-***
+---
 
-::: tip 
-
-Great 
-
+::: tip
+This is an outcome
 :::
->>>>>>> 41c9b786ab4462ffa928ed63cb54793a8455cfe3
+
+> > > > > > > 41c9b786ab4462ffa928ed63cb54793a8455cfe3
