@@ -5,16 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: docs/scripts
+  label: Scripts
+  create: all
+  match: "**/*"
+- type: directory
   path: docs
   label: Pages
   create: all
   match: "**/*"
-- type: document
-  path: docs/guide/*.md
-  label: Guide
-- type: document
-  path: docs/scripts/*.md
-  label: Scripts
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
