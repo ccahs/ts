@@ -13,7 +13,14 @@ module.exports = {
     ],
     sidebar: {
       "/guide/": ["", "style"],
-      "/scripts/": ["", "print-wristband-adt", "print-otx"]
+      "/scripts/": [
+        "",
+        "print-wristband-adt",
+        "print-otx-asap",
+        "print-otx-inpatient",
+        "reschedule-appt",
+        "test-doc-scan"
+      ]
     }
   }
 };
