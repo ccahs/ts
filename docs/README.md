@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/cc-logo.png
+heroImage: /images/care.svg
 actionText: Get Started →
 actionLink: /guide/
 features:
