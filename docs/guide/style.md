@@ -1,5 +1,7 @@
 # Style Guide
 
+### <Badge text="beta" type="warn"/> <Badge text="0.10.1+"/> <Badge text="default theme"/>
+
 This is a style guide for the test scripts
 
 ## Typography
@@ -33,19 +35,21 @@ This is a style guide for the test scripts
 
 ### Links
 
+---
+
 [I'm a inline-style link](https:www.google.com)
 
 ### Paragraphs
 
-This is a paragraph sentence.
-
 ---
+
+This is a paragraph sentence.
 
 ### Tables
 
-| Tables | Are | Cool |
-| ------ | :-: | ---: |
-
+| Tables |  Are  | Cool :fire: |              Right |
+| ------ | :---: | ----------: | -----------------: |
+| Value1 | `val` |         :x: | :heavy_check_mark: |
 
 ### Success Outcome Messages
 
@@ -76,6 +80,8 @@ This is a Danger outcome item
 
 ## Contents
 
+### Bash Script Example
+
 ---
 
 ```sh
@@ -86,10 +92,3 @@ yarn global add packagename
 # Creates a file named README with an extension md with the content '# Hello world!'
 echo '# Hello world!'> README.md
 ```
-
-## Why use this 🎉 ...?
-
-### 1. Service workers
-
-VuePress has an option in the config that allows it to automatically generate and register a service worker that would cache the content for offline use.
-[Reasons why to be continued](https://blog.logrocket.com/vuepress-in-all-its-glory-2f682e4f70c0/)
